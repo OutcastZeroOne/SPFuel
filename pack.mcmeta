@@ -1,7 +1,7 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": [{"text":"Fuel compat for Simple Planes","color":"white"},
+	"pack": {
+		"pack_format": 9,
+		"description": [{"text":"Fuel compat for Simple Planes","color":"white"},
 {"text":"\nOriginal data by Silfryi, Conversion by OutcastZeroOne","color":"blue"}]
-  }
+ 	}
 }
